@@ -1,0 +1,20 @@
+
+h	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŽ‚¯øÿÿÿÿ
+C
+java:S14812"(Remove this unused "age" local variable.(Ð­‘óþÿÿÿÿ
+R
+java:S18542"7Remove this useless assignment to local variable "age".(Ð­‘óþÿÿÿÿ
+A
+java:S1172>"&Remove these unused method parameters.(ÆŽ‚¯øÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(ù‘¶‰üÿÿÿÿ
+O
+java:S3400@"9Remove this method and declare a constant for this value.(üå”Ý
+^
+java:S35182"CMake sure this expression can't be zero before doing this division.(Ð­‘óþÿÿÿÿ
+e
+java:S3518*"CMake sure this expression can't be zero before doing this division.(Ð­‘óþÿÿÿÿ8Æ—¢þž/
+Y
+java:S1854*"7Remove this useless assignment to local variable "age".(Ð­‘óþÿÿÿÿ8Æ—¢þž/
+W	java:S125&"<This block of commented-out lines of code should be removed.(€‰ÊA8Æ—¢þž/
+J
+java:S1481*"(Remove this unused "age" local variable.(Ð­‘óþÿÿÿÿ8Æ—¢þž/
